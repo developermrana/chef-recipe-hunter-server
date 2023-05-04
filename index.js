@@ -10,8 +10,21 @@ app.use(cors());
 app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
+
+app.get("/chefs/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedChef = chefs.find((chef) => chef.id === id);
+  res.send(selectedChef);
+});
+
 app.get("/recipes", (req, res) => {
   res.send(recipes);
+});
+
+app.get("/recipes/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedRecipes = recipes.filter((recipe) => recipe.chef_id === id);
+  res.send(selectedRecipes);
 });
 
 app.listen(port, () => {
