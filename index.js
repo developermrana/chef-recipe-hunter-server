@@ -6,8 +6,12 @@ const chefs = require("./chifs.json");
 
 app.use(cors());
 
-app.get("/", (req, res) => {
-  res.send("express js is running");
+// app.get("/", (req, res) => {
+//   res.send("express js is running");
+// });
+
+app.get("/chefs", (req, res) => {
+  res.send(chefs);
 });
 
 app.listen(port, () => {

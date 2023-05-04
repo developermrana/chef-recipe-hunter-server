@@ -1,0 +1,362 @@
+[
+  {
+    "id": "r1",
+    "chef_id": "1",
+    "recipe_name": "Kung Pao Chicken",
+    "ingredients": [
+      "chicken breast",
+      "dried chili pepper",
+      "peanuts",
+      "soy sauce",
+      "rice vinegar"
+    ],
+    "cooking_method": "1. Cut the chicken into small cubes and marinate in soy sauce and rice vinegar for 20 minutes.\n2. Fry the chicken in a wok until golden brown.\n3. Add dried chili pepper and peanuts and stir-fry for 1-2 minutes.\n4. Serve with steamed rice.",
+    "rating": 4.5,
+    "recipe_image": "https://example.com/kung-pao-chicken.jpg"
+  },
+  {
+    "id": "r2",
+    "chef_id": "1",
+    "recipe_name": "Mapo Tofu",
+    "ingredients": [
+      "firm tofu",
+      "ground pork",
+      "doubanjiang",
+      "chopped scallions",
+      "garlic"
+    ],
+    "cooking_method": "1. Cut the tofu into small cubes and set aside.\n2. Brown the ground pork in a wok, then add chopped scallions and garlic.\n3. Stir in doubanjiang and cook until fragrant.\n4. Add the tofu and some water, and simmer for 5-10 minutes.\n5. Serve with steamed rice.",
+    "rating": 4.2,
+    "recipe_image": "https://example.com/mapo-tofu.jpg"
+  },
+  {
+    "id": "r3",
+    "chef_id": "1",
+    "recipe_name": "Hot and Sour Soup",
+    "ingredients": [
+      "chicken broth",
+      "dried shiitake mushrooms",
+      "tofu",
+      "bamboo shoots",
+      "eggs"
+    ],
+    "cooking_method": "1. Soak the dried shiitake mushrooms in hot water for 10-15 minutes, then slice them thinly.\n2. Bring the chicken broth to a boil, then add the sliced mushrooms, tofu, and bamboo shoots.\n3. Beat the eggs in a bowl, then slowly pour them into the soup while stirring.\n4. Season with vinegar, soy sauce, and white pepper.\n5. Serve hot.",
+    "rating": 4.7,
+    "recipe_image": "https://example.com/hot-and-sour-soup.jpg"
+  },
+  {
+    "id": "r4",
+    "chef_id": "1",
+    "recipe_name": "Scallion Pancakes",
+    "ingredients": [
+      "flour",
+      "scallions",
+      "salt",
+      "water",
+      "vegetable oil"
+    ],
+    "cooking_method": "1. Mix the flour, salt, and water in a bowl to make a dough.\n2. Chop the scallions finely and mix them into the dough.\n3. Roll the dough into thin pancakes.\n4. Fry the pancakes in a pan with some vegetable oil until golden brown.\n5. Serve hot.",
+    "rating": 4,
+    "recipe_image": "https://example.com/scallion-pancakes.jpg"
+  },
+  {
+    "id": "r5",
+    "chef_id": "2",
+    "recipe_name": "Moo Shu Pork",
+    "ingredients": [
+      "pork tenderloin",
+      "shiitake mushrooms",
+      "bamboo shoots",
+      "eggs",
+      "hoisin sauce"
+    ],
+    "cooking_method": "1. Slice the pork tenderloin thinly and marinate with soy sauce and cornstarch.\n2. Stir-fry the pork in a wok until browned, then add sliced shiitake mushrooms and bamboo shoots.\n3. Beat the eggs in a bowl, then pour them into the wok and stir-fry until cooked.\n4. Add hoisin sauce and cook for another 1-2 minutes.\n5. Serve with Mandarin pancakes or steamed rice.",
+    "rating": 4.3,
+    "recipe_image": "https://example.com/moo-shu-pork.jpg"
+  },
+  {
+    "id": "r6",
+    "chef_id": "2",
+    "recipe_name": "Egg Drop Soup",
+    "ingredients": [
+      "chicken broth",
+      "cornstarch",
+      "eggs",
+      "soy sauce",
+      "sesame oil"
+    ],
+    "cooking_method": "1. Mix cornstarch with water to make a slurry.\n2. Bring the chicken broth to a boil, then add the cornstarch slurry and stir.\n3. Beat the eggs in a bowl, then pour them into the soup while stirring.\n4. Season with soy sauce and sesame oil.\n5. Serve hot.",
+    "rating": 4.1,
+    "recipe_image": "https://example.com/egg-drop-soup.jpg"
+  },
+  {
+    "id": "r7",
+    "chef_id": "2",
+    "recipe_name": "Stir-Fried Beef with Broccoli",
+    "ingredients": [
+      "flank steak",
+      "broccoli",
+      "garlic",
+      "soy sauce",
+      "oyster sauce"
+    ],
+    "cooking_method": "1. Slice the flank steak thinly and marinate with soy sauce and cornstarch.\n2. Cut the broccoli into bite-sized pieces.\n3. Stir-fry the beef in a wok until browned, then set aside.\n4. Stir-fry the garlic and broccoli until tender.\n5. Add the beef back to the wok and stir in oyster sauce.\n6. Serve with steamed rice.",
+    "rating": 4.6,
+    "recipe_image": "https://example.com/beef-broccoli.jpg"
+  },
+  {
+    "id": "r8",
+    "chef_id": "2",
+    "recipe_name": "Honey Walnut Shrimp",
+    "ingredients": [
+      "shrimp",
+      "walnuts",
+      "mayonnaise",
+      "honey",
+      "lemon juice"
+    ],
+    "cooking_method": "1. Clean and devein the shrimp, then pat dry with paper towels.\n2. Coat the shrimp with cornstarch and fry until crispy.\n3. Toast the walnuts in a pan.\n4. Mix mayonnaise, honey, and lemon juice in a bowl to make the sauce.\n5. Combine the shrimp and walnuts with the sauce.\n6. Serve with steamed broccoli and rice.",
+    "rating": 4.4,
+    "recipe_image": "https://example.com/honey-walnut-shrimp.jpg"
+  },
+  {
+    "id": "r9",
+    "chef_id": "3",
+    "recipe_name": "Kung Pao Chicken",
+    "ingredients": [
+      "boneless, skinless chicken breast",
+      "dried red chili peppers",
+      "roasted peanuts",
+      "scallions",
+      "soy sauce"
+    ],
+    "cooking_method": "1. Cut the chicken into small pieces and marinate with soy sauce and cornstarch.\n2. Heat oil in a wok and stir-fry the chicken until cooked.\n3. Remove the chicken from the wok and set aside.\n4. Stir-fry dried red chili peppers, scallions, and roasted peanuts in the wok for a few minutes.\n5. Add the chicken back to the wok and stir-fry for another minute.\n6. Serve with steamed rice.",
+    "rating": 4.5,
+    "recipe_image": "https://example.com/kung-pao-chicken.jpg"
+  },
+  {
+    "id": "r10",
+    "chef_id": "3",
+    "recipe_name": "Hot and Sour Soup",
+    "ingredients": [
+      "chicken broth",
+      "tofu",
+      "dried wood ear mushrooms",
+      "bamboo shoots",
+      "vinegar"
+    ],
+    "cooking_method": "1. Soak dried wood ear mushrooms in hot water until they soften, then slice thinly.\n2. Cut tofu and bamboo shoots into small pieces.\n3. Bring chicken broth to a boil, then add the mushrooms, tofu, and bamboo shoots.\n4. Season with soy sauce, vinegar, and white pepper.\n5. In a small bowl, mix cornstarch and water to make a slurry.\n6. Slowly pour the slurry into the soup, stirring continuously, until the soup thickens.\n7. Add a beaten egg and stir the soup.\n8. Serve hot.",
+    "rating": 4.2,
+    "recipe_image": "https://example.com/hot-sour-soup.jpg"
+  },
+  {
+    "id": "r11",
+    "chef_id": "3",
+    "recipe_name": "Steamed Fish with Ginger and Scallions",
+    "ingredients": [
+      "whole fish",
+      "ginger",
+      "scallions",
+      "soy sauce",
+      "sesame oil"
+    ],
+    "cooking_method": "1. Clean and gut the whole fish, then pat dry with paper towels.\n2. Slice ginger and scallions into thin strips.\n3. Place the fish on a plate and spread ginger and scallions on top of the fish.\n4. Season the fish with soy sauce and sesame oil.\n5. Steam the fish for about 10-15 minutes, depending on the size of the fish.\n6. Serve hot with steamed rice.",
+    "rating": 4.7,
+    "recipe_image": "https://example.com/steamed-fish.jpg"
+  },
+  {
+    "id": "r12",
+    "chef_id": "3",
+    "recipe_name": "Dan Dan Noodles",
+    "ingredients": [
+      "ground pork",
+      "Chinese wheat noodles",
+      "Sichuan peppercorn",
+      "chili oil",
+      "garlic"
+    ],
+    "cooking_method": "1. Cook the noodles according to package instructions, then drain and set aside.\n2. Brown the ground pork in a pan, then add minced garlic and Sichuan peppercorn.\n3. Add chili oil and stir-fry for a few minutes.\n4. Mix the cooked noodles with the pork sauce.\n5. Serve hot, garnished with chopped scallions and sesame seeds.",
+    "rating": 4.4,
+    "recipe_image": "https://example.com/steamed-fish.jpg"
+  },
+  {
+    "id": "r13",
+    "chef_id": "4",
+    "recipe_name": "Mapo Tofu",
+    "ingredients": [
+      "soft tofu",
+      "ground pork",
+      "Sichuan peppercorn",
+      "chili bean paste",
+      "doubanjiang"
+    ],
+    "cooking_method": "1. Cut the tofu into small cubes and set aside.\n2. Brown the ground pork in a pan, then add minced garlic and Sichuan peppercorn.\n3. Add chili bean paste and doubanjiang, stir-fry for a few minutes.\n4. Add water and bring to a boil, then reduce the heat and let simmer for a few minutes.\n5. Add the tofu cubes and gently stir to combine.\n6. Let the tofu cook in the sauce for a few minutes.\n7. Serve hot with steamed rice.",
+    "rating": 4.6,
+    "recipe_image": "https://example.com/mapo-tofu.jpg"
+  },
+  {
+    "id": "r14",
+    "chef_id": "4",
+    "recipe_name": "Scallion Pancakes",
+    "ingredients": [
+      "flour",
+      "scallions",
+      "sesame oil",
+      "salt",
+      "water"
+    ],
+    "cooking_method": "1. Mix flour, salt, and water to form a dough.\n2. Knead the dough until it is smooth, then cover and let rest for 30 minutes.\n3. Roll out the dough into a thin sheet, then brush with sesame oil.\n4. Sprinkle chopped scallions on top of the oiled dough.\n5. Roll up the dough, then twist it into a spiral shape.\n6. Flatten the spiral shape into a pancake.\n7. Fry the pancake in a pan until golden brown on both sides.\n8. Serve hot.",
+    "rating": 4.3,
+    "recipe_image": "https://example.com/scallion-pancakes.jpg"
+  },
+  {
+    "id": "r15",
+    "chef_id": "4",
+    "recipe_name": "Sichuan Shrimp",
+    "ingredients": [
+      "shrimp",
+      "Sichuan peppercorn",
+      "garlic",
+      "ginger",
+      "chili peppers"
+    ],
+    "cooking_method": "1. Clean and devein the shrimp, then pat dry with paper towels.\n2. Heat oil in a wok, then stir-fry minced garlic, ginger, and chili peppers until fragrant.\n3. Add the shrimp and stir-fry until they turn pink.\n4. Season with Sichuan peppercorn and soy sauce.\n5. Stir-fry for another minute.\n6. Serve hot with steamed rice.",
+    "rating": 4.8,
+    "recipe_image": "https://example.com/sichuan-shrimp.jpg"
+  },
+  {
+    "id": "r16",
+    "chef_id": "4",
+    "recipe_name": "Stir-fried Vegetables",
+    "ingredients": [
+      "broccoli",
+      "carrots",
+      "baby corn",
+      "snow peas",
+      "garlic"
+    ],
+    "cooking_method": "1. Cut broccoli and carrots into bite-sized pieces, and slice baby corn in half.\n2. Blanch the broccoli and carrots in boiling water for a few minutes, then drain and set aside.\n3. Heat oil in a wok, then stir-fry minced garlic until fragrant.\n4. Add baby corn and snow peas, and stir-fry for a few minutes.\n5. Add the blanched broccoli and carrots, and stir-fry for another minute.\n6. Season with soy sauce and sesame oil.",
+    "rating": 4.3,
+    "recipe_image": "https://example.com/scallion-pancakes.jpg"
+  },
+  {
+    "id": "r17",
+    "chef_id": "5",
+    "recipe_name": "Steamed Fish with Ginger and Scallion",
+    "ingredients": [
+      "whole fish",
+      "ginger",
+      "scallions",
+      "soy sauce",
+      "sesame oil"
+    ],
+    "cooking_method": "1. Clean the fish and pat dry with paper towels.\n2. Cut a few slits on both sides of the fish.\n3. Slice ginger and scallions and place them on top of the fish.\n4. Steam the fish for about 8-10 minutes or until cooked through.\n5. In a small pan, heat soy sauce and sesame oil until it starts to bubble.\n6. Pour the soy sauce mixture over the fish.\n7. Serve hot with steamed rice.",
+    "rating": 4.9,
+    "recipe_image": "https://example.com/steamed-fish.jpg"
+  },
+  {
+    "id": "r18",
+    "chef_id": "5",
+    "recipe_name": "Hot and Sour Soup",
+    "ingredients": [
+      "tofu",
+      "bamboo shoots",
+      "carrots",
+      "mushrooms",
+      "chicken broth"
+    ],
+    "cooking_method": "1. Soak dried mushrooms in hot water for 20 minutes.\n2. Cut tofu, bamboo shoots, and carrots into small cubes.\n3. Drain the mushrooms and slice them.\n4. In a pot, bring chicken broth to a boil, then add the tofu, bamboo shoots, carrots, and mushrooms.\n5. Add vinegar, soy sauce, and chili oil to the pot.\n6. In a small bowl, whisk cornstarch and water, then slowly pour the mixture into the soup, stirring constantly.\n7. Let the soup simmer for a few minutes, then season with salt and white pepper.\n8. Serve hot.",
+    "rating": 4.5,
+    "recipe_image": "https://example.com/hot-and-sour-soup.jpg"
+  },
+  {
+    "id": "r19",
+    "chef_id": "5",
+    "recipe_name": "Kung Pao Chicken",
+    "ingredients": [
+      "chicken breast",
+      "Sichuan peppercorn",
+      "dried chili peppers",
+      "peanuts",
+      "green onions"
+    ],
+    "cooking_method": "1. Cut chicken into bite-sized pieces.\n2. In a small bowl, whisk soy sauce, rice vinegar, and cornstarch to make a marinade.\n3. Marinate the chicken for 15 minutes.\n4. Heat oil in a wok, then stir-fry minced garlic and ginger until fragrant.\n5. Add dried chili peppers and Sichuan peppercorn, stir-fry for a few seconds.\n6. Add the chicken and stir-fry until it is cooked through.\n7. Add chopped green onions and peanuts, stir-fry for another minute.\n8. Season with soy sauce and sugar.\n9. Serve hot with steamed rice.",
+    "rating": 4.7,
+    "recipe_image": "https://example.com/kung-pao-chicken.jpg"
+  },
+  {
+    "id": "r20",
+    "chef_id": "5",
+    "recipe_name": "Egg Fried Rice",
+    "ingredients": [
+      "cooked rice",
+      "eggs",
+      "peas",
+      "carrots",
+      "green onions"
+    ],
+    "cooking_method": "1. In a pan, scramble eggs until fully cooked, then set aside.\n2. In the same pan, stir-fry peas, carrots, and chopped green onions until softened.\n3. Add cooked rice to the pan, and stir-fry.",
+    "rating": 4.7,
+    "recipe_image": "https://example.com/kung-pao-chicken.jpg"
+  },
+  {
+    "id": "r21",
+    "chef_id": "6",
+    "recipe_name": "Mapo Tofu",
+    "ingredients": [
+      "tofu",
+      "ground pork",
+      "Sichuan peppercorn",
+      "doubanjiang",
+      "green onions"
+    ],
+    "cooking_method": "1. Cut tofu into small cubes.\n2. Heat oil in a wok, then stir-fry ground pork until browned.\n3. Add minced garlic, ginger, and doubanjiang to the wok, stir-fry until fragrant.\n4. Add tofu to the wok, stir-fry for a few minutes.\n5. Add water or broth to the wok, and bring it to a boil.\n6. Reduce the heat, and let it simmer for a few minutes.\n7. Add cornstarch slurry to the wok, stir until the sauce thickens.\n8. Season with soy sauce, sugar, and Sichuan peppercorn.\n9. Serve hot with steamed rice.",
+    "rating": 4.8,
+    "recipe_image": "https://example.com/mapo-tofu.jpg"
+  },
+  {
+    "id": "r22",
+    "chef_id": "6",
+    "recipe_name": "Shrimp Fried Rice",
+    "ingredients": [
+      "cooked rice",
+      "shrimp",
+      "peas",
+      "carrots",
+      "eggs"
+    ],
+    "cooking_method": "1. In a pan, scramble eggs until fully cooked, then set aside.\n2. In the same pan, stir-fry shrimp until they turn pink, then set aside.\n3. In the same pan, stir-fry peas and carrots until softened.\n4. Add cooked rice to the pan, and stir-fry for a few minutes.\n5. Add shrimp and scrambled eggs to the pan, stir-fry until everything is heated through.\n6. Season with salt and white pepper.\n7. Serve hot.",
+    "rating": 4.5,
+    "recipe_image": "https://example.com/shrimp-fried-rice.jpg"
+  },
+  {
+    "id": "r23",
+    "chef_id": "6",
+    "recipe_name": "Beef and Broccoli Stir-Fry",
+    "ingredients": [
+      "beef sirloin",
+      "broccoli",
+      "garlic",
+      "ginger",
+      "soy sauce"
+    ],
+    "cooking_method": "1. Cut beef into thin slices.\n2. Cut broccoli into florets.\n3. Heat oil in a wok, then stir-fry beef until browned.\n4. Add minced garlic and ginger to the wok, stir-fry until fragrant.\n5. Add broccoli to the wok, stir-fry for a few minutes.\n6. Add water.",
+    "rating": 4.5,
+    "recipe_image": "https://example.com/shrimp-fried-rice.jpg"
+  },
+  {
+    "id": "r24",
+    "chef_id": "6",
+    "recipe_name": "Egg Fried Rice",
+    "ingredients": [
+      "cooked rice",
+      "eggs",
+      "peas",
+      "carrots",
+      "green onions"
+    ],
+    "cooking_method": "1. In a pan, scramble eggs until fully cooked, then set aside.\n2. In the same pan, stir-fry peas, carrots, and chopped green onions until softened.\n3. Add cooked rice to the pan, and stir-fry.",
+    "rating": 4.7,
+    "recipe_image": "https://example.com/kung-pao-chicken.jpg"
+  }
+]

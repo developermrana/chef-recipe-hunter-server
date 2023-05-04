@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://i.ibb.co/NrFvdvw/chef1.jpg",
     "name": "John Smith",
     "years_of_experience": 10,
     "number_of_recipes": 50,
@@ -9,15 +9,16 @@
   },
   {
     "id": "2",
-    "picture": "https://example.com/chef2.jpg",
+    "picture": "https://i.ibb.co/mbDyj2G/chef6.jpg",
     "name": "Jane Doe",
     "years_of_experience": 8,
     "number_of_recipes": 70,
     "likes": 8500
   },
+
   {
     "id": "3",
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://i.ibb.co/4Y4LSHp/chef5.jpg",
     "name": "Mark Johnson",
     "years_of_experience": 15,
     "number_of_recipes": 90,
@@ -25,7 +26,7 @@
   },
   {
     "id": "4",
-    "picture": "https://example.com/chef4.jpg",
+    "picture": "https://i.ibb.co/grFN3dV/chef4.jpg",
     "name": "Emily Davis",
     "years_of_experience": 5,
     "number_of_recipes": 30,
@@ -33,7 +34,7 @@
   },
   {
     "id": "5",
-    "picture": "https://example.com/chef5.jpg",
+    "picture": "https://i.ibb.co/JyP3D4v/chef3.jpg",
     "name": "David Rodriguez",
     "years_of_experience": 12,
     "number_of_recipes": 80,
@@ -41,7 +42,7 @@
   },
   {
     "id": "6",
-    "picture": "https://example.com/chef6.jpg",
+    "picture": "https://i.ibb.co/zxCr7tb/chef2.jpg",
     "name": "Sarah Lee",
     "years_of_experience": 7,
     "number_of_recipes": 45,
