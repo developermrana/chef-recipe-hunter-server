@@ -1,10 +1,10 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const port = process.env.PORT || 5000;
 const chefs = require("./chifs.json");
 const recipes = require("./recipes.json");
 
+const port = process.env.PORT || 5000;
 app.use(cors());
 
 app.get("/chefs", (req, res) => {
